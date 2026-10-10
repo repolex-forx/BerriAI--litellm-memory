@@ -1,0 +1,11 @@
+{
+  "org": "BerriAI",
+  "repo": "litellm-memory",
+  "versions": [
+    {
+      "commit": "283454d0737ffd4286174f1207ba64ac9d2ea589",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:12:40.266066+00:00"
+    }
+  ]
+}
