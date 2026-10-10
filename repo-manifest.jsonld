@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/BerriAI/litellm-memory/commit/283454d0737ffd4286174f1207ba64ac9d2ea589",
       "git:hexsha": "283454d0737ffd4286174f1207ba64ac9d2ea589",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T07:12:40.265618+00:00"
     }
   ]
 }
